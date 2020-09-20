@@ -29,6 +29,11 @@ migrate = Migrate(app, db)
 #----------------------------------------------------------------------------#
 # Models.
 #----------------------------------------------------------------------------#
+Shows = db.Table("Shows",
+                 db.Column("id", db.Integer, primary_key=True),
+                 db.Column("artist_id", db.Integer, db.ForeignKey("Artist.id")),
+                 db.Column("venue_id", db.Integer, db.ForeignKey("Venue.id")),
+                 db.Column("start_time", db.DateTime, default=datetime.utcnow()))
 
 class Venue(db.Model):
     __tablename__ = 'Venue'
@@ -45,7 +50,9 @@ class Venue(db.Model):
     seeking_talent = db.Column(db.Boolean(), default=False)
     seeking_description = db.Column(db.String())
     website_link = db.Column(db.String(500))
-
+    artists = db.relationship("Artist", secondary=Shows,
+                              backref=db.backref('Venue',
+                                            cascade="all,delete"), lazy=True)
 class Artist(db.Model):
     __tablename__ = 'Artist'
 
@@ -60,9 +67,7 @@ class Artist(db.Model):
     seeking_venue = db.Column(db.Boolean(), default=False)
     seeking_description = db.Column(db.String(300))
     website_link = db.Column(db.String(500))
-
-
-# TODO Implement Show and Artist models, and complete all model relationships and properties, as a database migration.
+    venues = db.relationship("Venue", secondary=Shows,  backref="Artist", lazy=True)
 
 #----------------------------------------------------------------------------#
 # Filters.
