@@ -49,3 +49,34 @@
  * Restarting with stat
  * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
  * Restarting with stat
+127.0.0.1 - - [21/Sep/2020 16:14:09] "[37mGET /artists HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 16:14:11] "[37mGET /artists/1 HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+127.0.0.1 - - [21/Sep/2020 16:17:16] "[37mGET /venues HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 16:17:18] "[37mPOST /venues/search HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+127.0.0.1 - - [21/Sep/2020 16:19:26] "[37mGET /artists HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 16:19:28] "[37mPOST /artists/search HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 16:19:32] "[37mGET /artists/1 HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
