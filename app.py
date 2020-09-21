@@ -27,9 +27,6 @@ db = SQLAlchemy(app)
 migrate = Migrate(app, db)
 
 
-logger = logging.getLogger('werkzeug') # grabs underlying WSGI logger
-handler = logging.FileHandler('error.log') # creates handler for the log file
-logger.addHandler(handler) # adds handler to the werkzeug WSGI logger
 #----------------------------------------------------------------------------#
 # Models.
 #----------------------------------------------------------------------------#
