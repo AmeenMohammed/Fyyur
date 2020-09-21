@@ -1,0 +1,79 @@
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+127.0.0.1 - - [21/Sep/2020 05:02:37] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:02:38] "[33mGET /static/ico/favicon.png HTTP/1.1[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 05:02:41] "[35m[1mGET /venues HTTP/1.1[0m" 500 -
+127.0.0.1 - - [21/Sep/2020 05:02:41] "[37mGET /venues?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:02:42] "[37mGET /venues?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:02:42] "[37mGET /venues?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:02:42] "[37mGET /venues?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:02:42] "[37mGET /venues?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:02:42] "[37mGET /venues?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+127.0.0.1 - - [21/Sep/2020 05:07:30] "[35m[1mGET /venues HTTP/1.1[0m" 500 -
+127.0.0.1 - - [21/Sep/2020 05:07:30] "[37mGET /venues?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:07:31] "[37mGET /venues?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:07:31] "[37mGET /venues?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:07:31] "[37mGET /venues?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:07:31] "[37mGET /venues?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:07:31] "[37mGET /venues?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+127.0.0.1 - - [21/Sep/2020 05:10:13] "[37mGET /venues HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+127.0.0.1 - - [21/Sep/2020 05:11:37] "[35m[1mGET /venues HTTP/1.1[0m" 500 -
+127.0.0.1 - - [21/Sep/2020 05:11:37] "[37mGET /venues?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:11:37] "[37mGET /venues?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:11:37] "[37mGET /venues?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:11:37] "[37mGET /venues?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:11:37] "[37mGET /venues?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [21/Sep/2020 05:11:37] "[37mGET /venues?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+127.0.0.1 - - [21/Sep/2020 05:12:01] "[37mGET /venues HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Detected change in 'C:\\wamp64\\www\\fyyur\\app.py', reloading
+ * Restarting with stat
